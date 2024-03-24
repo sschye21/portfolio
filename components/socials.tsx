@@ -32,7 +32,7 @@ export default function Socials () {
         >
                 {socials.map((item, key) => {
                     return (
-                        <Link href={item.link} target="_blank" rel="noreferrer" key={key}>
+                        <Link href={item.link} target="_blank" rel="noreferrer" key={key} className='hover:scale-110'>
                             {item.social}
                         </Link>
                     )

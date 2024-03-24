@@ -26,7 +26,8 @@ export default function About() {
         <p>
           <span className="italic">When I&apos;m not coding</span>, I love <span className="italic">travelling</span> {" "}
           around the world, <span className="italic">exploring</span> {" "} new places, playing sport and trying new foods {" "}
-          (@<Link className="font-medium underline" href="https://tiktok.com/@rachandsteve" target="_blank">rachandsteve</Link>)!
+          @<Link className="font-medium underline" href="https://tiktok.com/@rachandsteve" target="_blank">rachandsteve</Link> {" "}
+          (check us out on TikTok!)
         </p>
         <br />
         <p className="mb-3">
@@ -38,7 +39,7 @@ export default function About() {
           solutions and pushing the boundaries of technology.
           I am a {" "}<span className="font-medium">Software Engineer</span>{" "} 
           at {" "}<span className="font-medium text-blue-500">Optus</span>, working to implement 
-          {" "}<span className="font-medium">AI</span>{" "}
+          {" "}<span className="font-medium">AI</span>{" "} in Optus' contact services
           to enhance customer experiences.
         </p>
         <p>

@@ -64,7 +64,7 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "Sydney, Australia",
     description:
-      "Working as a Software Engineer at Optus, using technologies such as React, Typescript, Node.js, PostgreSQL, AWS, GCP",
+      "Working as a Software Engineer at Optus, using technologies such as React, Typescript, Node.js, PostgreSQL, AWS, GCP & NICE CXOne",
     icon: React.createElement(CgWorkAlt),
     date: "2023 - Present",
   },
@@ -74,8 +74,8 @@ export const projectsData = [
   {
     title: "Optus - Training Module",
     description:
-      "Led the development of a highly scalable React webpack microservice, streamlining the process from >10 hours to minutes",
-    tags: ["React", "Typescript", "Node.js", "Express", "PostgreSQL"],
+      "Led the development of a highly scalable React webpack microservice, streamlining the process from > 10 hours to minutes",
+    tags: ["React", "Typescript", "Node.js", "Express", "PostgreSQL", "Figma"],
     imageUrl: wordanalyticsImg,
     link: ""
   },
@@ -83,7 +83,7 @@ export const projectsData = [
     title: "Movie Finder",
     description:
       "Developed a movie finder web application with friends. It has features like account creation, ML algorithm suggestions based on saved movies, reviews and ratings.",
-    tags: ["React", "Tailwind", "Java", "Springboot", "PostgreSQL"],
+    tags: ["React", "Tailwind", "Java", "Spring Boot", "PostgreSQL"],
     imageUrl: movie,
     link: "https://github.com/sschye21/Movie-Finder"
   },
