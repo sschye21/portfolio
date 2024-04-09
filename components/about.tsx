@@ -38,7 +38,7 @@ export default function About() {
           that fuels my passion for creating innovative
           solutions and pushing the boundaries of technology.
           I am a {" "}<span className="font-medium">Software Engineer</span>{" "} 
-          at {" "}<span className="font-medium text-blue-500">Optus</span>, working to implement 
+          at {" "}<span className="font-medium text-violet-500">Optus</span>, working to implement 
           {" "}<span className="font-medium">AI</span>{" "} in Optus' contact services
           to enhance customer experiences.
         </p>

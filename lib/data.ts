@@ -73,8 +73,8 @@ export const projectsData = [
   {
     title: "Optus - Training Module",
     description:
-      "Led the development of a highly scalable React webpack microservice, streamlining the process from > 10 hours to minutes",
-    tags: ["React", "Typescript", "Node.js", "Express", "PostgreSQL", "Figma"],
+      "Led the development of a highly scalable React microservice, streamlining the process from > 10 hours to minutes",
+    tags: ["React", "Typescript", "Node.js", "Express", "PostgreSQL"],
     imageUrl: wordanalyticsImg,
     link: ""
   },
