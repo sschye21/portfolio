@@ -3,7 +3,6 @@ import { CgWorkAlt } from "react-icons/cg";
 import { SiAdobe } from "react-icons/si";
 import { SiMulesoft } from "react-icons/si";
 import { LuGraduationCap } from "react-icons/lu";
-import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 import movie from '@/public/movie-finder.png';
 import portfolio from '@/public/portfolio.png'
@@ -21,10 +20,10 @@ export const links = [
     name: "Projects",
     hash: "#projects",
   },
-  {
-    name: "Skills",
-    hash: "#skills",
-  },
+  // {
+  //   name: "Skills",
+  //   hash: "#skills",
+  // },
   {
     name: "Experience",
     hash: "#experience",
